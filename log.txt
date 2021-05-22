@@ -1,0 +1,19 @@
+VERSION LOG
+
+1.0.0
+ - Initial Commit
+ - Inserted boiler plate from online bootstrap template
+
+1.0.1
+ - Replaced boiler plate with a portfolio template using bootstrap
+ - Added other pages and completed navigation
+
+1.0.3
+ - Updated Gallery and added extra pages
+ - Updated home page and made a snippet Gallery
+ - Finished the overall layout for home page
+
+1.0.4
+ - Uploaded all photography images to images folder
+ - Changed reviews page to feedback
+ - Started on img enlarger function for homepage
